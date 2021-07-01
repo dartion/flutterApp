@@ -3,8 +3,8 @@
 A new Flutter application version Flutter 2.0.3. The goal of this project is to setup flutter
 for web development along with code for Andoid, iOS.
 
-![Screenshot](screenshots/Screen Shot 2021-07-01 at 9.58.13 am.png)
-![Screenshot](screenshots/Screen Shot 2021-07-01 at 10.35.45 am.png)
+![App on the Menu Page](https://github.com/dartion/flutterApp/blob/main/screenshots/Screen%20Shot%202021-07-01%20at%2010.35.45%20am.png)
+![Home Page](https://github.com/dartion/flutterApp/blob/main/screenshots/Screen%20Shot%202021-07-01%20at%209.58.13%20am.png)
 
 
 
