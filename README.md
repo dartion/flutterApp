@@ -3,6 +3,10 @@
 A new Flutter application version Flutter 2.0.3. The goal of this project is to setup flutter
 for web development along with code for Andoid, iOS.
 
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](flutterApp/screenshots/Screen Shot 2021-07-01 at 9.58.13 am.png?raw=true "App on Menu Page")
+flutterApp/screenshots/Screen Shot 2021-07-01 at 10.35.45 am.png?raw=true "Home page of the App")
+
 ## Requirements
 - Android Studio 4.1.3
 - iOS Simulator
